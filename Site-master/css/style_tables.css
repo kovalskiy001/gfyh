@@ -1,0 +1,28 @@
+table, th, td {
+border: 4px solid #ff00ff;
+border-collapse: collapse;
+}
+table {
+width: 550px;
+margin:40px auto;
+}
+th, td {
+height: 40px;
+padding: 15px;
+}
+td{
+text-align:left;
+vertical-align:middle;
+}
+th {
+font-family: tahoma;
+font-size: 20pt;
+font-style: italic; 
+background-image:url(../images/tablebg.jpg);
+}
+.new {
+background-color: #ccceee;
+}
+.new1 {
+background-color: #fefe00;
+}

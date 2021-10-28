@@ -1,0 +1,29 @@
+body {
+background-image:url(../images/bg.jpg);
+}
+h1{
+Font:italic bold 24pt Curlz MT, fantazy;
+color:#008000;
+text-align:center;
+text-decoration:underline;
+border: 8px ridge #2D2DF0;
+margin:20px auto 15px auto;
+padding:10px;
+width: 400px;
+}
+p {
+Font-size:14pt; 
+text-align:justify;
+margin: 10px;
+padding: 10px 10px 10px 20px;
+color:red;
+text-indent: 25px;}
+
+table, th, tr,td {
+border:4px double #FAE805;
+border-collapse: collapse;
+text-align:center;
+}
+table {
+width: 550px;
+margin:40px auto;
